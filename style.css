@@ -1,0 +1,20 @@
+#header
+
+{
+    height: 15vh;
+    background-color: chocolate;
+    } 
+
+}
+
+.foto
+{
+    height: 65vh;
+    background-color: rgb(14, 62, 150);
+}
+
+.info
+{
+    height: 65vh;
+    background-color: cyan;
+}
